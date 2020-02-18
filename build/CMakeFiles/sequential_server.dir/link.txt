@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/sequential_server.dir/sequential-server.c.o CMakeFiles/sequential_server.dir/utils.c.o  -o sequential_server  -L/usr/local/lib 

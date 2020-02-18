@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/uv_isprime_server.dir/uv-isprime-server.c.o CMakeFiles/uv_isprime_server.dir/utils.c.o  -o uv_isprime_server  -L/usr/local/lib -Wl,-rpath,/usr/local/lib -luv 

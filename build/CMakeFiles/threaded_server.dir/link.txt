@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/threaded_server.dir/threaded-server.c.o CMakeFiles/threaded_server.dir/utils.c.o  -o threaded_server  -L/usr/local/lib -Wl,-rpath,/usr/local/lib -lpthread 

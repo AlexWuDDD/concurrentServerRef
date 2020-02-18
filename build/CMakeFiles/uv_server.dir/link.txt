@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/uv_server.dir/uv-server.c.o CMakeFiles/uv_server.dir/utils.c.o  -o uv_server  -L/usr/local/lib -Wl,-rpath,/usr/local/lib -luv 

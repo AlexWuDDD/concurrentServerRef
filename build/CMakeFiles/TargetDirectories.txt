@@ -1,0 +1,12 @@
+/home/alexdockermother/Documents/ConcurrentServer/build/CMakeFiles/edit_cache.dir
+/home/alexdockermother/Documents/ConcurrentServer/build/CMakeFiles/uv_isprime_server.dir
+/home/alexdockermother/Documents/ConcurrentServer/build/CMakeFiles/eventLongIssueWork.dir
+/home/alexdockermother/Documents/ConcurrentServer/build/CMakeFiles/eventLongIssue.dir
+/home/alexdockermother/Documents/ConcurrentServer/build/CMakeFiles/uv_server.dir
+/home/alexdockermother/Documents/ConcurrentServer/build/CMakeFiles/threaded_server.dir
+/home/alexdockermother/Documents/ConcurrentServer/build/CMakeFiles/blocking_listener.dir
+/home/alexdockermother/Documents/ConcurrentServer/build/CMakeFiles/nonblocking_listener.dir
+/home/alexdockermother/Documents/ConcurrentServer/build/CMakeFiles/sequential_server.dir
+/home/alexdockermother/Documents/ConcurrentServer/build/CMakeFiles/select_server.dir
+/home/alexdockermother/Documents/ConcurrentServer/build/CMakeFiles/rebuild_cache.dir
+/home/alexdockermother/Documents/ConcurrentServer/build/CMakeFiles/epoll_server.dir

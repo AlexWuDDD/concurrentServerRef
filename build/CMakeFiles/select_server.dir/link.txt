@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/select_server.dir/select-server.c.o CMakeFiles/select_server.dir/utils.c.o  -o select_server  -L/usr/local/lib 
